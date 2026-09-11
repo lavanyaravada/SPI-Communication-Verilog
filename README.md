@@ -1,4 +1,4 @@
-# SPI-Communication-Verilog using Verilog HDL
+# SPI Communication using Verilog HDL
 ## SPI Master-Slave communication system designed and verified using Verilog HDL and Vivado simulation.
 
 Verilog HDL    Xilinx Vivado 2024.1    RTL Simulation Completed    MIT License
